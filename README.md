@@ -1,8 +1,7 @@
 # Weather App
 
 A weather application built with Next.js frontend and Laravel backend.
-
-![Weather App Main Screen]
+[Weather App Main Screen]
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/04532618-7f33-4c8f-85da-ab73a6f3e1cd" />
 
 ## Features
@@ -12,8 +11,8 @@ A weather application built with Next.js frontend and Laravel backend.
 * Current weather display
 * 3-day forecast
 * Wind and humidity information
-
-![Search by City](searchByCity.png)
+[Search by City]
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/444510ae-ec3f-4b79-b1b9-f1c349022aa0" />
 
 ## Getting Started
 
