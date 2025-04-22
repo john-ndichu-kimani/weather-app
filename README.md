@@ -2,7 +2,7 @@
 
 A weather application built with Next.js frontend and Laravel backend.
 
-![Weather App Main Screen](weather-app.png)
+![Weather App Main Screen](<img width="960" alt="Image" src="https://github.com/user-attachments/assets/04532618-7f33-4c8f-85da-ab73a6f3e1cd" />)
 
 ## Features
 
