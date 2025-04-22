@@ -15,6 +15,10 @@ A weather application built with Next.js frontend and Laravel backend.
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/444510ae-ec3f-4b79-b1b9-f1c349022aa0" />
 
 ## Getting Started
+### Clone the repo
+```bash
+git clone https://github.com/john-ndichu-kimani/weather-app.git
+```
 
 ### Backend Setup
 
